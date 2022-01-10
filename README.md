@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NelliEva
 - 👀 I’m interested in Front End Developing(React, JavaScript, CSS)
-- 🌱 I’m currently learning React, Python
+- 🌱 I’m currently learning Redux, Python
 - 💞️ I’m looking to collaborate on everything related
 - 📫 How to reach me ...
 
